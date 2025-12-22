@@ -1,4 +1,5 @@
-# Backend - Rencontre Pongistes
+# Ecole Ri7
+Exercice CI/CD
 
 ## Stack
 - Express
